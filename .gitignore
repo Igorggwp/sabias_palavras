@@ -42,3 +42,8 @@ linux/
 macos/
 web/
 windows/
+
+#Flutter
+.metadata
+analysis_options.yaml
+pubspec.lock
